@@ -5,7 +5,7 @@ repository; this one only lists them.
 
 ```
 /plugin marketplace add juliantrude/claude-plugins
-/plugin install <plugin>@trude-claude
+/plugin install <plugin>@juliantrude
 ```
 
 | Plugin | What it does |
