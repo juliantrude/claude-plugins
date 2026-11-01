@@ -12,6 +12,22 @@
         "repo": "juliantrude/hustlebot"
       },
       "description": "Cross-session goal loop: /hustlebot:hustle takes a project from zero (grilling interview -> GOAL.md) to a running self-scheduling chain that hustles on the goal day and night, around subscription limits, with a zero-token web monitor"
+    },
+    {
+      "name": "admiralty",
+      "source": {
+        "source": "github",
+        "repo": "juliantrude/admiralty"
+      },
+      "description": "Coaches Stellaris players from their save files: Academy trains you, Ops briefs you, Debrief looks back."
+    },
+    {
+      "name": "ariadne",
+      "source": {
+        "source": "github",
+        "repo": "juliantrude/ariadne"
+      },
+      "description": "Lerntutor: Vorwissensanalyse, verhandelter Lehrplan, Meilensteine, Hinweisleiter, FSRS, Quellenprüfung"
     }
   ]
 }
